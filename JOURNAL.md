@@ -134,3 +134,18 @@ I had some issues with the footprints for the PCB schematic so I worked to fix t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--81292a1d51b573446954377a2d0f108724ac6694/image.png)
   
 
+## 10/25/2025 - Finished PCB Pretty Much   
+
+I pretty much finished the PCB routing. I just need to do a GND copper fill later, which wasn't working correctly.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6f18bbf9f40b7069e064c14c0422ab88a9a61b06/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd5e43bd443254fe9b3faa6dd3ec2eafd62e6186/image.png)
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU0NywicHVyIjoiYmxvYl9pZCJ9fQ==--31adf1ea94eaa9d46b425daa337cf4052d3e02cc/image.png)
+
+
+The price came out to $12 with shipping for five pcb's. My next steps are to finalize the CAD and make sure everything works, finish the BOM, and verify everything is good with the PCB and then I'll ship the project.
+  
+
