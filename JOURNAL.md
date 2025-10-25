@@ -134,7 +134,7 @@ I had some issues with the footprints for the PCB schematic so I worked to fix t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--81292a1d51b573446954377a2d0f108724ac6694/image.png)
   
 
-## 10/25/2025 - Finished PCB Pretty Much   
+## 10/25/2025 5 PM - Finished PCB Pretty Much   
 
 I pretty much finished the PCB routing. I just need to do a GND copper fill later, which wasn't working correctly.
 
@@ -147,5 +147,12 @@ I pretty much finished the PCB routing. I just need to do a GND copper fill late
 
 
 The price came out to $12 with shipping for five pcb's. My next steps are to finalize the CAD and make sure everything works, finish the BOM, and verify everything is good with the PCB and then I'll ship the project.
+  
+
+## 10/25/2025 6 PM - Worked on the BOM  
+
+I made my BOM spreadsheet and started adding parts to it, and also researched where to get parts. I looked into the types of Nema motors and how much torque they have, and the difference between sellers. I also looked into what type of hardware to use since I don't have any.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfdbb6b8528690f7ed5eeb48207821f3a64cdd59/image.png)
   
 
