@@ -156,3 +156,14 @@ I made my BOM spreadsheet and started adding parts to it, and also researched wh
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfdbb6b8528690f7ed5eeb48207821f3a64cdd59/image.png)
   
 
+## 10/27/2025 - Worked on BOM and PCB  
+
+A bunch of the footprints on the PCB ended up being wrong so I had to edit them. I also added most of the tiny electronics for the PCB onto the BOM. The total cost right now is $205 so I'll see if there's a way to bring that down. I retraced the PCB, replaced a couple of the connectors, and redid some of the wiring. The BOM is mostly done and the PCB should be done now. It took a while today because EasyEDA wouldn't let me update footprints without retracing the whole PCB and it also kept giving me errors. It also took a while finding each tiny component on AliExpress for the PCB that would fit the footprint.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--63e1589a588ebb70c90d5ec3f72a851bec4aa0ad/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d7716ef38b8dc6da0664193539ec21be18b60d94/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3MywicHVyIjoiYmxvYl9pZCJ9fQ==--75d6021683fb2457230ecef20bb71583a055a915/image.png)
+  
+
