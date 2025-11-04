@@ -174,3 +174,12 @@ Apparently, all the driver footprints were wrong, so I had to redo that and all 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7f636127629e9b10fad81a3c6322993c50595863/image.png)
   
 
+## 11/4/2025 - Finished Schematic, worked on PCB and BOM  
+
+I finished fixing and double-checking all the footprints on the schematic for the PCB. I also finished adding all the PCB parts to the BOM. I generated a PCB fron the schematic and started the layout and tracing again. My next steps are to finish the BOM and PCB and make the CAD look better. I also need to make mounts for the magnet sensors in the CAD and tweak some things. I also need to make it look better overall, with filets, chamfers, etc.
+
+After all of that, I will try to optimize the BOM to bring the cost down.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfe35d4558a5bdb8205a6dc4b39a581872ef2d32/image.png)
+  
+
