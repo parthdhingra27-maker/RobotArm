@@ -181,5 +181,6 @@ I finished fixing and double-checking all the footprints on the schematic for th
 After all of that, I will try to optimize the BOM to bring the cost down.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfe35d4558a5bdb8205a6dc4b39a581872ef2d32/image.png)
-  
+
+This journal is from 11/3 just forgot to post it.  
 
