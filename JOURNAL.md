@@ -182,6 +182,8 @@ After all of that, I will try to optimize the BOM to bring the cost down.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfe35d4558a5bdb8205a6dc4b39a581872ef2d32/image.png)
 
+This is my current BOM: https://docs.google.com/spreadsheets/d/1jZwi7d67DiPdZLEvy5LfeC6HyOPPZ9pO3xaRMX1j6oo/edit?usp=sharing
+
 This journal is from 11/3 just forgot to post it.  
 
 ## 11/4/2025 7 PM - Finished PCB  
