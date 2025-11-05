@@ -194,3 +194,10 @@ I finished the PCB and the BOM and started working on the CAD. This is a picture
 
 I also worked on improving the CAD model to make it look better, and I worked on designing mounts for the magnet sensors.  
 
+## 11/5/2025 - Worked on improving CAD  
+
+I chose to use M3 fasteners for everything and sourced the heat sink inserts and hardware. I started adding holes for those and I also started adding filets and more parts to the CAD to make it look better.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--8972b7ee0e7a58163669136e105cd140046c3bb9/image.png)
+  
+
