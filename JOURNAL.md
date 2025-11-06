@@ -194,7 +194,7 @@ I also worked on improving the CAD model to make it look better, and I worked on
 
 ## 11/5/2025 - Worked on improving CAD  
 
-I chose to use M3 fasteners for everything and sourced the heat sink inserts and hardware. I started adding holes for those and I also started adding filets and more parts to the CAD to make it look better and more finished.
+I chose to use M3 fasteners for everything and sourced the heat sink inserts and hardware. I started adding holes for those and I also started adding filets and more parts to the CAD to make it look better and more finished. My next steps are to finish adding all the remaining hardware (heated inserts, fastners, sensors) to the CAD and then finalizing how much filament I need so that I can add it to the BOM. Once that is done, I can create sample code and then ship the project.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--8972b7ee0e7a58163669136e105cd140046c3bb9/image.png)
   
