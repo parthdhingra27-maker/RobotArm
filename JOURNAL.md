@@ -188,7 +188,7 @@ This journal is from 11/3 just forgot to post it.
 
 ## 11/4/2025 7 PM - Finished PCB  
 
-I finished the PCB and the BOM and started working on the CAD. This is a picture of the finished PCB. I made a copper fill for the GND on both the top and bottom layers and also added VIA's to connect them. I fixed the layout and made sure the capacitors are near the drivers.
+I finished the PCB and the BOM and started working on the CAD. This is a picture of the finished PCB. I made a copper fill for the GND on both the top and bottom layers and also added VIA's to connect them. I fixed the layout and made sure the capacitors are near the drivers to make sure they work properly, since that was one of the problems pointed out with my last design. I also changed a lot of the connectors to header pins to make it easier to solder and work with. I still need to add mounting holes on it to mount to a bracket later on.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a7afabecb1f18eb206c583e5a193698d5d2b9580/image.png)
 
