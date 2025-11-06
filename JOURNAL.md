@@ -169,7 +169,7 @@ A bunch of the footprints on the PCB ended up being wrong so I had to edit them.
 
 ## 10/28/2025 - Worked on Schematics   
 
-Apparently, all the driver footprints were wrong, so I had to redo that and all the tracing for that. I also worked on the BOM and I'm almost done with that. My next steps are to maek the arm look better and finalize all the details to make sure everything will work together. I also need to get the cost down as close to $200.
+Apparently, all the driver footprints were wrong, so I had to redo that and all the tracing for that. I was using the wrong drivers so I replaced all of those with TMC2209's. I also worked on the BOM, and I'm almost done with that. My next steps are to make the arm look better and finalize all the details to make sure all the electronics that are on the BOM will work with the PCB. I also need to get the cost down as close to $200.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7f636127629e9b10fad81a3c6322993c50595863/image.png)
   
