@@ -188,7 +188,7 @@ This journal is from 11/3 just forgot to post it.
 
 ## 11/4/2025 7 PM - Finished PCB  
 
-I finished the PCB and the BOM and started working on the CAD. This is a picture of the finished PCB. I made a copper fill for the GND on both the top and bottom layers and also added VIA's to connect them. I fixed the layout and made sure the capacitors are near the drivers to make sure they work properly, since that was one of the problems pointed out with my last design. I also changed a lot of the connectors to header pins to make it easier to solder and work with. I still need to add mounting holes on it to mount to a bracket later on.
+I finished the PCB and the BOM and started working on the CAD. This is a picture of the finished PCB. I made a copper fill for the GND on both the top and bottom layers and also added VIA's to connect them. I fixed the layout and made sure the capacitors are near the drivers to make sure they work properly, since that was one of the problems pointed out with my last design. I also changed a lot of the connectors to header pins to make it easier to solder and work with. I still need to add mounting holes on it to mount to a bracket later on. I previously had a XT60 connector soldered onto the PCB but I changed that to just a screw terminal which will connect onto a XT60 connector with wires. I thought this will be stronger than connecting the XT60 connector directly to the PCB every time. I added a banana-plug to XT60 adapter to the BOM since this is what will connect the bench power supply to the PCB. It will supply 24v.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a7afabecb1f18eb206c583e5a193698d5d2b9580/image.png)
 
