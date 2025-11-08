@@ -199,3 +199,40 @@ I chose to use M3 fasteners for everything and sourced the heat sink inserts and
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--8972b7ee0e7a58163669136e105cd140046c3bb9/image.png)
   
 
+## 11/8/2025 - Almost done with CAD and finished BOM  
+
+I finished adding all the fasteners to the CAD and I made sure all the hole sizes are right for the M3 screws and threaded inserts. I have a finalized design for the arm and I calculated how much filament I need to print it. I added that to the BOM. I also worked on a little cost optimization trying to find electronics on DigiKey for cheaper, since I'm already paying for shipping there. I added the AS5600 sensors into the CAD.
+
+My next steps are:
+
+- Double-check BOM accuracy
+- Start making a basic code for the motors and controlling the arm using a custom UI
+- Work on the GitHub repository - make the Readme and upload all the needed files.
+- Finish cost optimization
+- Maybe make a wiring diagram if needed for the GitHub?
+
+Here's how the CAD looks right now:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b6d13f5837aa196c46861da17fc7cdcadad8912a/image.png)
+
+Here's my updated BOM:
+
+https://docs.google.com/spreadsheets/d/1jZwi7d67DiPdZLEvy5LfeC6HyOPPZ9pO3xaRMX1j6oo/edit?gid=0#gid=0
+
+I also calculated how much filament I need roughly. These are the sliced parts.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e6dfc41e1b558f9d83d731b0bcaac22c69dd8ba4/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--642df1d630a65356eee65a433474afe1dbeaa862/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4NywicHVyIjoiYmxvYl9pZCJ9fQ==--b17fe205323290f6dee9c1f201449dcf7094d0c6/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e35295d7e48675fdf48acd972532d7dbaa3e6ebf/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7a2ee663735e36270c124e25063dd66e63b94ea2/image.png)
+
+So, roughly adding all of that, I got 1370g of filament. Rounding up to 1500g because I didn't include the smaller parts like the shaft and the parts for the end effector. I added filament to my BOM and changed the price so it only accounts for 1500g and I will pay the rest of the 500g myself since I would need to buy 2kg of filament.
+
+
+(FYI: Made this journal over 3 different days.)  
+
