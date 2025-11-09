@@ -236,3 +236,23 @@ So, roughly adding all of that, I got 1370g of filament. Rounding up to 1500g be
 
 (FYI: Made this journal over 3 different days.)  
 
+## 11/9/2025 - Finished CAD and Worked on Github  
+
+Spent some more time today on the CAD, adding all the smaller details. I added the rest of the hardware to the CAD, mainly, and made sure the dimensioning for all the parts that were being mounted together was correct based on the hardware that I added to the BOM. I also started the GitHub page, and it should be finished tomorrow so that I can ship it.
+
+I added another encoder to the bottom axle to get rotation values.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--87e57246a0e86f70b673ce378dab1b2157ab978d/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b19a1686c6752cd50e55c8f361bace0cbb79eb32/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ea6dd9b22d38b4334eb145ce8d97aae4ad82a15f/image.png)
+
+I added holes to make it easy to tighten the screws that will be in tight spots. I also added holes for heat-sunk inserts in the pictures above.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY5MywicHVyIjoiYmxvYl9pZCJ9fQ==--9b518d2d764be128a7ae0efd4e453f90f1408861/image.png)
+
+
+
+  
+
