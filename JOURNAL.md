@@ -236,7 +236,7 @@ So, roughly adding all of that, I got 1370g of filament. Rounding up to 1500g be
 
 (FYI: Made this journal over 3 different days.)  
 
-## 11/9/2025 - Finished CAD and Worked on Github  
+## 11/9/2025 2 AM - Finished CAD and Worked on Github  
 
 Spent some more time today on the CAD, adding all the smaller details. I added the rest of the hardware to the CAD, mainly, and made sure the dimensioning for all the parts that were being mounted together was correct based on the hardware that I added to the BOM. I also started the GitHub page, and it should be finished tomorrow so that I can ship it.
 
@@ -255,4 +255,15 @@ I added holes to make it easy to tighten the screws that will be in tight spots.
 
 
   
+
+## 11/9/2025 6 PM - Finished Code, Finished GitHub, Shipped Project  
+
+Today I finally decided the CAD is finished. I have decided not to design an end-effector for now since I want to make a custom robot hand that will later attach to the end of this Robot Arm. I want to get the arm working with a fully custom UI before worrying about the end-effector.
+
+This is the finished GitHub README:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTkwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--569b70673d5cab78fa3d26e2561e9e9f260917b5/image.png)
+
+
+I also wrote a basic code and uploaded it to GitHub and shipped my project.  
 
