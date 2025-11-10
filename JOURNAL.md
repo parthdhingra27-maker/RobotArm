@@ -5,8 +5,10 @@
   To edit this file, please edit your journal entries on Blueprint.
   ==================================================================
 -->
+**Total Time Spent: 50.5 Hours**
 
-## 10/19/2025 - Researched current robot arm designs  
+
+## 10/19/2025 - Researched current robot arm designs - 3.5 hours
 
 **RESEARCH**
 
@@ -22,7 +24,7 @@ This is one of the arms I liked as it used mainly Nema 17's and isn't overcompli
 
 For the grabber, I want to start with just basic claws but I want it to have a easy mounting system so I can play around with pneumatics and a robot hand in the future.  
 
-## 10/20/2025 4 PM - Created requirements, started design and CAD  
+## 10/20/2025 4 PM - Created requirements, started design and CAD - 4 hours
 
 After doing some more research and thinking, I decided:
 
@@ -52,7 +54,7 @@ This is the base of the robot arm where the electronics should fit. It has some 
 
 That's how far I got during this CAD session. I still need to add the tiny bearings under the big pulley and finalize the distance between the centeres of the pully's to make sure there's a standard timing belt length I can by that's closed loop.  
 
-## 10/20/2025 8 PM - Worked on CAD  
+## 10/20/2025 8 PM - Worked on CAD - 1.2 hours
 
 I completed the base of the robot and added bearings, calculated the right distance between the motor pully and the big base pulley to make sure a 200mm belt will fit. I also added mounting brackets on the sides to mount onto a piece of plywood.
 
@@ -69,7 +71,7 @@ This is how much time I spent on OnShape:
 Next session, my goal is to finish the rotation part of it with all the motor mounts and pullys.
   
 
-## 10/21/2025 12 AM - Continued CAD  
+## 10/21/2025 12 AM - Continued CAD - 1 hour
 
 I worked on the CAD for another hour. I figured out how to make the shaft longer on the stepper motor and how to fit all the bearings and pulleys. I also started working on the piece that will rotate the rest of the arm.
 
@@ -82,7 +84,7 @@ I worked for around an hour tonight.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3600a8e205d7d930f8ef2e2910ee2b96ba7b20c/image.png)
   
 
-## 10/21/2025 12 PM - Continued CAD  
+## 10/21/2025 12 PM - Continued CAD - 1.2 hours 
 
 Today I continued working on the CAD, and I finished most of the rotation part and created the mounting holes for the rest of the arm to mount onto the rotation part. I decided to use heat-sunk inserts for all the holes that need to be threaded.
 
@@ -91,7 +93,7 @@ Today I continued working on the CAD, and I finished most of the rotation part a
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4e824af23c1fe9739027f0029b59937ea2f8fa16/image.png)
   
 
-## 10/21/2025 7 PM - Continued CAD  
+## 10/21/2025 7 PM - Continued CAD - 3 hours
 
 I worked on the arm part of it and calculated torque and pulley ratios based on the weight of the arm. The CAD is almost done, and after this, I'll start drawing out the wiring and designing a PCB as well as start some basic coding.
 
@@ -100,7 +102,7 @@ I worked on the arm part of it and calculated torque and pulley ratios based on 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--422baa78f44a616b51b4c8898df2af7770afa637/image.png)
   
 
-## 10/21/2025 10 PM - Finished CAD for now, researched PCB design  
+## 10/21/2025 10 PM - Finished CAD for now, researched PCB design - 1.8 hours
 
 I finished the CAD for now. I'll come back to it later and edit the tiny things that need to be fixed. But it's done for the most part. I still need to make a grabber for the end of it as well. I'll edit the holes and clearances and wire openings once I have a BOM and an exact list of parts I want to get.
 
@@ -113,28 +115,28 @@ I started watching tutorials online on how to design PCB's since I have never do
 
 I spent basically 2 hours this session. My next steps are to start working on the electronics design and PCB and also think about and CAD a grabber design.  
 
-## 10/22/2025 - Started PCB Schematics, Worked on BOM, Made a List of Parts  
+## 10/22/2025 - Started PCB Schematics, Worked on BOM, Made a List of Parts - 4 hours
 
 I did a bunch of research on how to design a PCB. I made a list of components I need and worked on the BOM. I also completed a lot of the schematics for the PCB. I decided on what drivers to use for each stepper as well as how it would be powered. Here's how far I got on the schmetatics for the PCB on EasyEDA.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--257f599b68e2e00c001bec046e0f554e89c031de/image.png)
   
 
-## 10/23/2025 - Finished PCB Schematics, Worked on BOM  
+## 10/23/2025 - Finished PCB Schematics, Worked on BOM - 4 hours
 
 I finished the PCB schematics. It has three stepper motor drivers integrated for the three NEMA 17 Stepper Motors. The board I am using is an ESP32. I also have one bigger driver for the NEMA 23 stepper motor, which will be connected to the PCB with wires, not soldered on. I have three connectors for servos and six magnetic hall sensor connectors. I also have some LEDs that show when power is on, and when data is being transmitted. I also have a connection for an E-Stop button.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--94aad38e229a69e7bf61c6a72876595119000f1e/image.png)
   
 
-## 10/24/2025 - Worked on fixing PCB schematic issues  
+## 10/24/2025 - Worked on fixing PCB schematic issues - 0.8 hours
 
 I had some issues with the footprints for the PCB schematic so I worked to fix those. I used a lot of user contributed footprints so that probably led to the issue. I just had to go in and replace a bunch of them.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--81292a1d51b573446954377a2d0f108724ac6694/image.png)
   
 
-## 10/25/2025 5 PM - Finished PCB Pretty Much   
+## 10/25/2025 5 PM - Finished PCB Pretty Much - 3 hours  
 
 I pretty much finished the PCB routing. I just need to do a GND copper fill later, which wasn't working correctly.
 
@@ -149,14 +151,14 @@ I pretty much finished the PCB routing. I just need to do a GND copper fill late
 The price came out to $12 with shipping for five pcb's. My next steps are to finalize the CAD and make sure everything works, finish the BOM, and verify everything is good with the PCB and then I'll ship the project.
   
 
-## 10/25/2025 6 PM - Worked on the BOM  
+## 10/25/2025 6 PM - Worked on the BOM - 0.5 hours
 
 I made my BOM spreadsheet and started adding parts to it, and also researched where to get parts. I looked into the types of Nema motors and how much torque they have, and the difference between sellers. I also looked into what type of hardware to use since I don't have any.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1NywicHVyIjoiYmxvYl9pZCJ9fQ==--bfdbb6b8528690f7ed5eeb48207821f3a64cdd59/image.png)
   
 
-## 10/27/2025 - Worked on BOM and PCB  
+## 10/27/2025 - Worked on BOM and PCB - 3.5 hours 
 
 A bunch of the footprints on the PCB ended up being wrong so I had to edit them. I also added most of the tiny electronics for the PCB onto the BOM. The total cost right now is $205 so I'll see if there's a way to bring that down. I retraced the PCB, replaced a couple of the connectors, and redid some of the wiring. The BOM is mostly done and the PCB should be done now. It took a while today because EasyEDA wouldn't let me update footprints without retracing the whole PCB and it also kept giving me errors. It also took a while finding each tiny component on AliExpress for the PCB that would fit the footprint.
 
@@ -167,14 +169,14 @@ A bunch of the footprints on the PCB ended up being wrong so I had to edit them.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3MywicHVyIjoiYmxvYl9pZCJ9fQ==--75d6021683fb2457230ecef20bb71583a055a915/image.png)
   
 
-## 10/28/2025 - Worked on Schematics   
+## 10/28/2025 - Worked on Schematics - 3 hours
 
 Apparently, all the driver footprints were wrong, so I had to redo that and all the tracing for that. I was using the wrong drivers so I replaced all of those with TMC2209's. I also worked on the BOM, and I'm almost done with that. My next steps are to make the arm look better and finalize all the details to make sure all the electronics that are on the BOM will work with the PCB. I also need to get the cost down as close to $200.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7f636127629e9b10fad81a3c6322993c50595863/image.png)
   
 
-## 11/4/2025 3 PM - Finished Schematic, worked on PCB and BOM  
+## 11/4/2025 3 PM - Finished Schematic, worked on PCB and BOM - 3 hours
 
 I finished fixing and double-checking all the footprints on the schematic for the PCB. I also finished adding all the PCB parts to the BOM. I generated a PCB from the schematic and started the layout and tracing again. My next steps are to finish the BOM and PCB and make the CAD look better. I also need to make mounts for the magnet sensors in the CAD and tweak some things. I also need to make it look better overall, with filets, chamfers, etc. I had to get some of the electronics, like the little diodes and capacitors from DigiKey because I couldn't find the exact ones I wanted on Aliexpress with free shipping. I will move some of the other electronics to DigiKey before shipping this project because the electronics are a little cheaper on there and it doesn't force you to get 100 packs of everything. I also need to work on optimizing the BOM to bring the cost down since it's around $230 now and I still need to add filament once the CAD is finalized.
 
@@ -184,7 +186,7 @@ This is my current BOM: https://docs.google.com/spreadsheets/d/1jZwi7d67DiPdZLEv
 
 This journal is from 11/3 just forgot to post it.  
 
-## 11/4/2025 7 PM - Finished PCB  
+## 11/4/2025 7 PM - Finished PCB - 2 hours
 
 I finished the PCB and the BOM and started working on the CAD. This is a picture of the finished PCB. I made a copper fill for the GND on both the top and bottom layers and also added VIA's to connect them. I fixed the layout and made sure the capacitors are near the drivers to make sure they work properly, since that was one of the problems pointed out with my last design. I also changed a lot of the connectors to header pins to make it easier to solder and work with. I still need to add mounting holes on it to mount to a bracket later on. I previously had a XT60 connector soldered onto the PCB but I changed that to just a screw terminal which will connect onto a XT60 connector with wires. I thought this will be stronger than connecting the XT60 connector directly to the PCB every time. I added a banana-plug to XT60 adapter to the BOM since this is what will connect the bench power supply to the PCB. It will supply 24v.
 
@@ -192,14 +194,14 @@ I finished the PCB and the BOM and started working on the CAD. This is a picture
 
 I also worked on improving the CAD model to make it look better, and I worked on designing mounts for the magnet sensors.  
 
-## 11/5/2025 - Worked on improving CAD  
+## 11/5/2025 - Worked on improving CAD - 1 hour
 
 I chose to use M3 fasteners for everything and sourced the heat sink inserts and hardware. I started adding holes for those and I also started adding filets and more parts to the CAD to make it look better and more finished. My next steps are to finish adding all the remaining hardware (heated inserts, fastners, sensors) to the CAD and then finalizing how much filament I need so that I can add it to the BOM. Once that is done, I can create sample code and then ship the project.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--8972b7ee0e7a58163669136e105cd140046c3bb9/image.png)
   
 
-## 11/8/2025 - Almost done with CAD and finished BOM  
+## 11/8/2025 - Almost done with CAD and finished BOM - 4 hours
 
 I finished adding all the fasteners to the CAD and I made sure all the hole sizes are right for the M3 screws and threaded inserts. I have a finalized design for the arm and I calculated how much filament I need to print it. I added that to the BOM. I also worked on a little cost optimization trying to find electronics on DigiKey for cheaper, since I'm already paying for shipping there. I added the AS5600 sensors into the CAD.
 
@@ -236,7 +238,7 @@ So, roughly adding all of that, I got 1370g of filament. Rounding up to 1500g be
 
 (FYI: Made this journal over 3 different days.)  
 
-## 11/9/2025 2 AM - Finished CAD and Worked on Github  
+## 11/9/2025 2 AM - Finished CAD and Worked on Github - 1.5 hours
 
 Spent some more time today on the CAD, adding all the smaller details. I added the rest of the hardware to the CAD, mainly, and made sure the dimensioning for all the parts that were being mounted together was correct based on the hardware that I added to the BOM. I also started the GitHub page, and it should be finished tomorrow so that I can ship it.
 
@@ -256,7 +258,7 @@ I added holes to make it easy to tighten the screws that will be in tight spots.
 
   
 
-## 11/9/2025 6 PM - Finished Code, Finished GitHub, Shipped Project  
+## 11/9/2025 6 PM - Finished Code, Finished GitHub, Shipped Project - 4.5 hours
 
 Today I finally decided the CAD is finished. I have decided not to design an end-effector for now since I want to make a custom robot hand that will later attach to the end of this Robot Arm. I want to get the arm working with a fully custom UI before worrying about the end-effector.
 
